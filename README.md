@@ -11,6 +11,9 @@ There are three main types of missing values:
 2. Missing at Random (MAR): MAR is a type of missing data where the probability of a data point missing depends on the values of other variables in the dataset, but not on the missing variable itself. This means that the missingness mechanism is not entirely random, but it can be predicted based on the available information. We can use bivariate imputations for this
 3. Missing Not at Random (MNAR): MNAR is the most challenging type of missing data to deal with. It occurs when the probability of a data point being missing is related to the missing value itself. This means that the reason for the missing data is informative and directly associated with the variable that is missing. We can use univariate imputations for this.
 
+![image](https://github.com/user-attachments/assets/a3316843-19fd-4ab3-acff-b39ddea6b884)
+
+
 # Methods for Identifying Missing Data :
 
 1. .isnull()
