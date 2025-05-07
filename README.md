@@ -1,3 +1,5 @@
+**For coding see the Missing_values&encoding.ipynb file**
+
 # What is a Missing Value?
 Missing values are data points that are absent for a specific variable in a dataset. They can be represented in various ways, such as blank cells, null values, or special symbols like “NA” or “unknown.” These missing data points pose a significant challenge in data analysis and can lead to inaccurate or biased results.
 
